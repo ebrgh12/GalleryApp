@@ -1,11 +1,9 @@
 ### Girish Bangalore Ramesh
 girish12ramesh@gmail.com
 
-(+1 4085137965)
 
-San Jose State University
 
-# Galary App for Android
+# Gallery App for Android
 
 ## Requirements:
 
@@ -13,7 +11,7 @@ San Jose State University
 
  2. *The device/emulator should have sufficient memory as we have used high resolution images provided(Else the appliaction fails or doesnt respond due to insufficient memory).
 
-## Technology :
+## Technology:
 
  1: Android SDK.
 
